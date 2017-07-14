@@ -6,7 +6,7 @@ permalink: /about/
 
 <center><i> "The Democratic Party is not a collection of diverse interests brought together only to win elections.
 We are united instead by a common heritage of respect for deeds of the past and a recognition of the needs of the future.
-Never satisfied with today we have always staked our fortune on tomorrow." </i>
+Never satisfied with today we have always staked our fortune on tomorrow." </i> <br> <br>
 
 — President John F. Kennedy </center>
 
