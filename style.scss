@@ -22,6 +22,11 @@ body {
   color: $darkGray;
 }
 
+footer {
+  position:fixed;
+  bottom:0;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
