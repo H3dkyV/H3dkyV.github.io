@@ -18,6 +18,7 @@ html {
 }
 
 body {
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -155,7 +156,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-  width: 100%;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -276,8 +276,6 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
-  position:absolute;
-  bottom:0;
 }
 
 footer {
