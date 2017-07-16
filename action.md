@@ -14,4 +14,4 @@ permalink: /action/
 8. Go to town halls. A schedule of Congressman Conaway's town hall meetings can be found [here](https://conaway.house.gov/townhalls/), and a guide for attendees is found on page 17 of the [Indivisible Guide](https://www.indivisibleguide.com/resource/guide-english-pdf/).
 9. Sign petitions. You can find online petitions at [MoveOn.org](https://front.moveon.org/) and [Change.org](https://www.change.org/). 
 10. Protest. We coordinate protests on our Facebook group and email list. Click join to be added to our email list.
-11. Contact advertisers on hateful websites. Hateful fake news websites, such as [Breitbart](http://www.breitbart.com), rely on ad money. Go to their website and contact their advertisers, through social media and phone calls, to request that they block Breitbart from their ad buys.
+11. Contact advertisers on hateful websites. Hateful fake news websites, such as [Breitbart](http://www.breitbart.com), rely on ad money. Go to their website and contact their advertisers, through social media and phone calls, to request that they block websites like that from their ad buys.
