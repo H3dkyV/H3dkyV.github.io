@@ -4,7 +4,7 @@ title: Action
 permalink: /action/
 ---
 
-1. Call Congressman Conaway. Daily. His Midland office's phone number is (432) 687-2390. Contact him about anything going on that concerns you. A guide on how to make effective phone calls to his office is found on page 23 of the [Indivisible Guide](https://www.indivisibleguide.com/resource/guide-english-pdf/).
+1. Call Congressman Conaway. His Midland office's phone number is (432) 687-2390. Contact him about anything going on that concerns you. A guide on how to make effective phone calls to his office is found on page 23 of the [Indivisible Guide](https://www.indivisibleguide.com/resource/guide-english-pdf/).
 5. Attend local party meetings.
 2. Fax our Senators' and Congressman's office. The easiest way to do this is to use a free service called [Resistbot](https://resistbot.io/). To use it, text RESIST to 50409. From there you can send a message that will be faxed to them.
 3. Register to vote. Go to [Vote.gov](vote.gov) to get a form to fill out and mail in.
