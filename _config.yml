@@ -6,7 +6,7 @@
 name: Midland Democrats
 
 # Short bio or description (displayed in the header)
-description: Advancing Progressive Ideas in West Texas
+description: A Better Deal
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/847590019120340992/r7jpW5JS.jpg
@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss
   twitter: midlandtxdems
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
