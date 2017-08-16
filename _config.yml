@@ -6,7 +6,7 @@
 name: Midland Democrats
 
 # Short bio or description (displayed in the header)
-description: A Better Deal
+description: Fighting for Democratic values in West Texas
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/847590019120340992/r7jpW5JS.jpg
@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: /blog/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
